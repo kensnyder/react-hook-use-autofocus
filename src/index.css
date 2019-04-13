@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	padding: 15px;
+}
+
+pre {
+	font-family: Monaco, Consolas, monospace;
+}
+
+.ShoppingItem input[type='text'] {
+	width: 200px;
+	margin-right: 10px;
+}
